@@ -12,7 +12,7 @@
 
 <h2>NEW VERSION WITH BOT/USER AND MANY OTHER FEATURES! 🌟</h2>
 
-<p> To get the <strong>secret password</strong> you have to join our <a href="https://github.com/wezah">discord server</a>
+<p> To get the <strong>secret password</strong> you have to join our <a href="https://discord.gg/8FY29PErFm">discord server</a>
 
 ### Preview ( User Token )
 
